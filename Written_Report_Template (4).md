@@ -8,7 +8,7 @@ Visualize how an outcome succeeded, failed or canceled compared by the launch da
 
 ### Analysis of Outcomes Based on Launch Date
 I performed my analysis by creating a new sheet that displayed a pivot table from the main dataset that displayed the successful, failed and canceled outcomes based on the launch dates. Some challenges that arose from this was grouping the rows of the launch dates, but I was able to get through it by making sure that only the years were showing to create a much more organized looking pivot table. From the pivot table, I was able to create a pivot chart that clearly shows a better visualization on the information extracted from the pivot table.
-![filename](path/to/image.png)
+![Outcomes Based on Launch Date.png](path/to/Outcomes Based on Launch Date.png)
 
 It seems that the successful outcomes based on launch date is 
 ### Analysis of Outcomes Based on Goals
