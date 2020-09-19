@@ -8,7 +8,7 @@ Visualize how an outcome succeeded, failed or canceled compared by the launch da
 
 ### Analysis of Outcomes Based on Launch Date
 I performed my analysis by creating a new sheet that displayed a pivot table from the main dataset that displayed the successful, failed and canceled outcomes based on the launch dates. Some challenges that arose from this was grouping the rows of the launch dates, but I was able to get through it by making sure that only the years were showing to create a much more organized looking pivot table. From the pivot table, I was able to create a pivot chart that clearly shows a better visualization on the information extracted from the pivot table.
-![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](Outcomes_Based_on_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 Another form of analysis I did was pulling data from the main dataset and then creating a table that showed the count of the successful, failed, and canceled outcomes based on the campaign goals' price range. Some challenges was creating the formula and filtering the right columns and the price ranges of the goals. In the end I was able to create a line chart that shows information that clearly shows a summary of the percentage calculated of the successful, failed and canceled outcomes based on the campaign goals' price range.
