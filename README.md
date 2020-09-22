@@ -1,6 +1,5 @@
 ## Overview of Project
 Analyzed campaign outcomes based on goals and launch dates.
-![https://unsplash.com/photos/QVNyCllG2GQ](https://unsplash.com/photos/QVNyCllG2GQ)
 
 ### Purpose
 Create tables and chart visualizations on how an outcome succeeded, failed or canceled compared by the launch dates and another comparison by goals based on price range.
