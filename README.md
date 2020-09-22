@@ -1,11 +1,14 @@
 ## Overview of Project
 Analyzed campaign outcomes based on goals and launch dates.
+![https://unsplash.com/photos/QVNyCllG2GQ](https://unsplash.com/photos/QVNyCllG2GQ)
+
 ### Purpose
 Create tables and chart visualizations on how an outcome succeeded, failed or canceled compared by the launch dates and another comparison by goals based on price range.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-I performed my analysis by creating a new sheet that displayed a pivot table from the main dataset that displayed the successful, failed and canceled outcomes based on the launch dates. 
+I performed my analysis by creating a new sheet that displayed a pivot table from the main dataset that displayed the successful, failed and canceled outcomes based on the launch dates.
+
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
